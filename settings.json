@@ -1,0 +1,21 @@
+{
+    "fall_speed_factor": 1.0,
+    "color_speed": 0.2,
+    "rotation_speed_factor": 1.0,
+    "repeat_delay": 150,
+    "controls": {
+        "links": 1073741904,
+        "rechts": 1073741903,
+        "drehen": 1073741906,
+        "runter": 1073741905
+    },
+    "logo_explosion_enabled": true,
+    "explosion_hours": 1,
+    "explosion_minutes": 5,
+    "explosion_seconds": 9,
+    "logo_hidden_time": 60,
+    "default_language": "DE",
+    "millennium_end_enabled": true,
+    "millennium_score": 100000000,
+    "millennium_bonus": 1000000
+}
